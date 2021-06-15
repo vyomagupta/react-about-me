@@ -55,7 +55,7 @@ function MainContent(): JSX.Element {
       </section>
       <section>
         <h2>Food</h2>
-        <p>My favourite foods are:</p>
+        <p>These are my favourite food:</p>
         <ul>
           <li>{capitalise(threeFavouriteFoods[0])}</li>
           <li>{capitalise(threeFavouriteFoods[1])}</li>
